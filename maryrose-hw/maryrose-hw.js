@@ -13,12 +13,12 @@ for(i = 0; i < APPLE_QUANTITY; i ++){
   console.log("WEEEEEEE! I'm looping!")
 }
 
-// 3. Write a function
+// 3. Write a function sayHello
 var sayHello = function(){
   console.log("Hello!")
 }
 
-// 4. Create an object
+// 4. Create an object mary
 var mary = {
   name: "Mary Rose",
   codeNinja: true,
